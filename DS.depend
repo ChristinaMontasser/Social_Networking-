@@ -1,0 +1,171 @@
+# depslib dependency file v1.0
+1626327203 source:c:\users\rocker\desktop\ds\linkedlist.cpp
+	"LinkedList.h"
+	"User.h"
+
+1626327346 c:\users\rocker\desktop\ds\linkedlist.h
+	<iostream>
+	<cstring>
+	"User.h"
+
+1626330361 c:\users\rocker\desktop\ds\user.h
+	<string>
+	"Treap.h"
+
+1626330476 source:c:\users\rocker\desktop\ds\user.cpp
+	"User.h"
+	<iostream>
+	"Treap.h"
+
+1626418287 source:c:\users\rocker\desktop\ds\main.cpp
+	<fstream>
+	<string>
+	<sstream>
+	<iostream>
+	"LinkedList.h"
+	"Treap.h"
+	"User.h"
+
+1626417336 c:\users\rocker\desktop\ds\treap.h
+	<iostream>
+	<queue>
+	"LinkedList.h"
+	"User.h"
+	<iostream>
+	<queue>
+
+1626418287 source:c:\users\rocker\desktop\ds\treap.cpp
+	"Treap.h"
+	"User.h"
+
+1626384385 source:c:\users\rocker\desktop\finalcodeblocks\ds\linkedlist.cpp
+	"LinkedList.h"
+	"User.h"
+
+1626384385 c:\users\rocker\desktop\finalcodeblocks\ds\linkedlist.h
+	<iostream>
+	<cstring>
+	"User.h"
+
+1626377149 c:\users\rocker\desktop\finalcodeblocks\ds\user.h
+	<string>
+	"Treap.h"
+
+1626595564 c:\users\rocker\desktop\finalcodeblocks\ds\treap.h
+	<iostream>
+	<queue>
+	"LinkedList.h"
+	"User.h"
+	<iostream>
+	<queue>
+
+1626573361 source:c:\users\rocker\desktop\finalcodeblocks\ds\main.cpp
+	<fstream>
+	<string>
+	<sstream>
+	<iostream>
+	"LinkedList.h"
+	"Treap.h"
+	"User.h"
+
+1626595370 source:c:\users\rocker\desktop\finalcodeblocks\ds\treap.cpp
+	"Treap.h"
+	"User.h"
+
+1626376104 source:c:\users\rocker\desktop\finalcodeblocks\ds\user.cpp
+	"User.h"
+	<iostream>
+	"Treap.h"
+
+1626384385 source:c:\users\rocker\downloads\project_20190444_20190702_20190283_20190382_20190388_20190387_20190090\linkedlist.cpp
+	"LinkedList.h"
+	"User.h"
+
+1626384385 c:\users\rocker\downloads\project_20190444_20190702_20190283_20190382_20190388_20190387_20190090\linkedlist.h
+	<iostream>
+	<cstring>
+	"User.h"
+
+1626377149 c:\users\rocker\downloads\project_20190444_20190702_20190283_20190382_20190388_20190387_20190090\user.h
+	<string>
+	"Treap.h"
+
+1626733509 c:\users\rocker\downloads\project_20190444_20190702_20190283_20190382_20190388_20190387_20190090\treap.h
+	<iostream>
+	"LinkedList.h"
+	"User.h"
+	<iostream>
+
+1626376104 source:c:\users\rocker\downloads\project_20190444_20190702_20190283_20190382_20190388_20190387_20190090\user.cpp
+	"User.h"
+	<iostream>
+	"Treap.h"
+
+1626633033 source:c:\users\rocker\downloads\project_20190444_20190702_20190283_20190382_20190388_20190387_20190090\main.cpp
+	<fstream>
+	<string>
+	<sstream>
+	<iostream>
+	"LinkedList.h"
+	"Treap.h"
+	"User.h"
+
+1626733825 source:c:\users\rocker\downloads\project_20190444_20190702_20190283_20190382_20190388_20190387_20190090\treap.cpp
+	"Treap.h"
+	"User.h"
+	"OurQueue.h"
+
+1626733703 source:c:\users\rocker\downloads\project_20190444_20190702_20190283_20190382_20190388_20190387_20190090\ourqueue.cpp
+	"OurQueue.h"
+	"Treap.h"
+
+1626733686 c:\users\rocker\downloads\project_20190444_20190702_20190283_20190382_20190388_20190387_20190090\ourqueue.h
+	"Treap.h"
+	<iostream>
+
+1626384385 source:c:\users\rocker\desktop\project_20190444_20190702_20190283_20190382_20190388_20190387_20190090\linkedlist.cpp
+	"LinkedList.h"
+	"User.h"
+
+1626384385 c:\users\rocker\desktop\project_20190444_20190702_20190283_20190382_20190388_20190387_20190090\linkedlist.h
+	<iostream>
+	<cstring>
+	"User.h"
+
+1626377149 c:\users\rocker\desktop\project_20190444_20190702_20190283_20190382_20190388_20190387_20190090\user.h
+	<string>
+	"Treap.h"
+
+1626733509 c:\users\rocker\desktop\project_20190444_20190702_20190283_20190382_20190388_20190387_20190090\treap.h
+	<iostream>
+	"LinkedList.h"
+	"User.h"
+	<iostream>
+
+1626633033 source:c:\users\rocker\desktop\project_20190444_20190702_20190283_20190382_20190388_20190387_20190090\main.cpp
+	<fstream>
+	<string>
+	<sstream>
+	<iostream>
+	"LinkedList.h"
+	"Treap.h"
+	"User.h"
+
+1626736009 source:c:\users\rocker\desktop\project_20190444_20190702_20190283_20190382_20190388_20190387_20190090\ourqueue.cpp
+	"OurQueue.h"
+	"Treap.h"
+
+1626735886 c:\users\rocker\desktop\project_20190444_20190702_20190283_20190382_20190388_20190387_20190090\ourqueue.h
+	"Treap.h"
+	<iostream>
+
+1626376104 source:c:\users\rocker\desktop\project_20190444_20190702_20190283_20190382_20190388_20190387_20190090\user.cpp
+	"User.h"
+	<iostream>
+	"Treap.h"
+
+1626734152 source:c:\users\rocker\desktop\project_20190444_20190702_20190283_20190382_20190388_20190387_20190090\treap.cpp
+	"Treap.h"
+	"User.h"
+	"OurQueue.h"
+
